@@ -2,7 +2,6 @@ name: picam
 channels:
   - nodefaults
   - conda-forge
-  - pytorch-nightly
 dependencies:
   # Step: Python Main
   - python
