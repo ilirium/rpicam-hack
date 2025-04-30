@@ -1,0 +1,3 @@
+rpicam-apps build: v1.6.0 025ca84648c9 03-02-2025 (16:21:04)
+rpicam-apps capabilites: egl:1 qt:1 drm:1 libav:1
+libcamera build: v0.4.0+53-29156679

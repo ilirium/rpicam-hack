@@ -1,0 +1,27 @@
+total 112K
+-rw-------  1 ilirium ilirium 1.3K Apr  2 18:37 .bash_history
+-rw-r--r--  1 ilirium ilirium  220 Nov 19 16:32 .bash_logout
+-rw-r--r--  1 ilirium ilirium 4.1K Apr  3 16:55 .bashrc
+drwxr-xr-x  2 ilirium ilirium 4.0K Nov 19 16:36 Bookshelf
+drwx------  9 ilirium ilirium 4.0K Mar 30 15:47 .cache
+drwxr-xr-x  2 ilirium ilirium 4.0K Apr  3 16:32 .conda
+drwx------ 14 ilirium ilirium 4.0K Apr  3 16:52 .config
+drwxr-xr-x  2 ilirium ilirium 4.0K Nov 19 16:44 Desktop
+drwxr-xr-x  3 ilirium ilirium 4.0K Apr  3 16:32 Dev
+drwxr-xr-x  3 ilirium ilirium 4.0K Apr  3 16:44 Documents
+drwxr-xr-x  2 ilirium ilirium 4.0K Apr  3 16:28 Downloads
+-rw-------  1 ilirium ilirium   20 Mar 30 15:42 .lesshst
+drwxr-xr-x  4 ilirium ilirium 4.0K Nov 19 16:44 .local
+drwx------  4 ilirium ilirium 4.0K Mar 23 16:49 .mozilla
+drwxr-xr-x  2 ilirium ilirium 4.0K Nov 19 16:44 Music
+drwxr-xr-x  2 ilirium ilirium 4.0K Nov 19 16:44 Pictures
+drwx------  3 ilirium ilirium 4.0K Mar 30 15:45 .pki
+-rw-r--r--  1 ilirium ilirium  807 Nov 19 16:32 .profile
+drwxr-xr-x  2 ilirium ilirium 4.0K Nov 19 16:44 Public
+drwx------  2 ilirium ilirium 4.0K Nov 19 16:43 .ssh
+-rw-r--r--  1 ilirium ilirium    0 Nov 19 16:44 .sudo_as_admin_successful
+drwxr-xr-x  2 ilirium ilirium 4.0K Nov 19 16:44 Templates
+drwxr-xr-x  2 ilirium ilirium 4.0K Nov 19 16:44 Videos
+-rw-------  1 ilirium ilirium   56 Apr  2 18:37 .Xauthority
+-rw-------  1 ilirium ilirium 6.2K Apr  3 16:24 .xsession-errors
+-rw-------  1 ilirium ilirium 7.3K Apr  2 18:37 .xsession-errors.old
